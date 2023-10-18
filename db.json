@@ -1,0 +1,94 @@
+{
+  "Name": [
+    {
+      "firstName": "Nadir",
+      "lastName": "Bagirov"
+    }
+  ],
+  "movies": [
+    {
+      "id": 8,
+      "title": "Joker",
+      "year": 2019,
+      "img": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Spirited Away",
+      "year": 2001,
+      "img": "https://cdn-r2-1.thebrag.com/rs/uploads/2020/11/75-Spirited-Away.jpg"
+    },
+    {
+      "img": "https://cdn-r2-1.thebrag.com/rs/uploads/2020/10/91-The-Goonies.jpg",
+      "title": "The Goonies",
+      "year": "1985",
+      "id": 17
+    },
+    {
+      "img": "https://cdn-r2-1.thebrag.com/rs/uploads/2020/10/90-Blade-Runner-2049.jpg",
+      "title": "Blade Runner",
+      "year": "2017",
+      "id": 18
+    },
+    {
+      "img": "https://cdn-r2-1.thebrag.com/rs/uploads/2020/10/88-The-Avengers.jpg",
+      "title": "The Avengers",
+      "year": "2012",
+      "id": 19
+    },
+    {
+      "img": "https://cdn-r2-1.thebrag.com/rs/uploads/2020/10/86-Dead-Poets-Society.jpg",
+      "title": "Dead Poets Society",
+      "year": "1989",
+      "id": 20
+    },
+    {
+      "img": "https://cdn-r2-1.thebrag.com/rs/uploads/2020/11/85-Donnie-Darko.jpg",
+      "title": "Donny Darko",
+      "year": "2001",
+      "id": 21
+    },
+    {
+      "img": "https://cdn-r2-1.thebrag.com/rs/uploads/2020/11/83-3-Godafathers.jpg",
+      "title": "3 Godfathers",
+      "year": "1948",
+      "id": 22
+    },
+    {
+      "img": "https://cdn-r2-1.thebrag.com/rs/uploads/2020/11/81-The-Castle.jpg",
+      "title": "The Castle",
+      "year": "1997",
+      "id": 24
+    },
+    {
+      "img": "https://cdn-r2-1.thebrag.com/rs/uploads/2020/11/79-Rocketman.jpg",
+      "title": "Rocketman",
+      "year": " 2019",
+      "id": 25
+    },
+    {
+      "img": "https://cdn-r2-1.thebrag.com/rs/uploads/2020/11/76-Toy-Story.jpg",
+      "title": "Toy Story",
+      "year": "1995",
+      "id": 26
+    },
+    {
+      "img": "https://cdn-r2-1.thebrag.com/rs/uploads/2020/11/74-Psycho.jpg",
+      "title": "Psycho",
+      "year": "1960",
+      "id": 28
+    },
+    {
+      "img": "https://cdn-r2-1.thebrag.com/rs/uploads/2020/11/72-Mad-Max-Fury-Road.jpg",
+      "title": "Mad Max: Fury Road2",
+      "year": "2015",
+      "id": 29
+    },
+    {
+      "img": "https://cdn-r2-1.thebrag.com/rs/uploads/2020/11/24-Parasite.jpg",
+      "title": "Parasite",
+      "year": "2019",
+      "id": 31
+    }
+  ]
+}

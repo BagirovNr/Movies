@@ -1,0 +1,96 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.sectionMovies {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    max-height: 900px;
+
+}
+
+
+.ulContainer {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 30px;
+    max-width: 100%;
+
+    a {
+        color: black;
+        font-size: 80%;
+        text-decoration: none;
+    }
+
+    img {
+        height: 200px;
+        width: 200px;
+    }
+}
+
+
+
+.main-container img {
+    height: 10px;
+    width: 13px;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pagination {
+    display: flex;
+    font-size: 20px;
+
+
+    .paginationBtn1 {
+        margin-left: 250px;
+        cursor: pointer;
+        width: 100px;
+        border: 1px solid #333;
+        border-radius: 5px;
+        padding: 10px;
+
+
+        &:hover {
+            background-color: #ddd;
+        }
+
+        &:active {
+            background-color: #333;
+            color: white;
+        }
+    }
+
+    .paginationBtn {
+        padding-left: 20px;
+    }
+
+    .paginationBtn2 {
+        margin-left: 30px;
+        cursor: pointer;
+        width: 100px;
+        border: 1px solid #333;
+        border-radius: 5px;
+
+        &:hover {
+            background-color: #ddd;
+        }
+
+        &:active {
+            background-color: #333;
+            color: white;
+        }
+
+
+
+    }
+}
